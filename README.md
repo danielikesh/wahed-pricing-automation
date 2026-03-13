@@ -29,12 +29,11 @@ The automation tests simulate user actions and verify expected results on the pr
 wahed-pricing-automation
 │
 ├── tests
-│ ├── test_page_content.py
-│ └── test_calculator.py
+│   ├── test_calculator.py
+│   └── test_page_content.py
 │
 ├── requirements.txt
 ├── README.md
-
 
 ---
 
@@ -90,5 +89,6 @@ Tests automatically:
 - Verify text inputs behavior
 
 The automation waits for dynamic elements and ensures stable execution.
+
 
 
