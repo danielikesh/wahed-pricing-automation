@@ -75,3 +75,20 @@ Author
 Likesh Barve
 QA Automation Assignment
 
+
+## How Tests Work
+
+The automation uses Playwright with Pytest.
+
+Tests automatically:
+
+- Open the Wahed pricing page
+- Verify page content (navigation, pricing header, FAQ section)
+- Scroll to the calculator section
+- Validate the investment input field
+- Verify numeric inputs are accepted
+- Verify text inputs behavior
+
+The automation waits for dynamic elements and ensures stable execution.
+
+
