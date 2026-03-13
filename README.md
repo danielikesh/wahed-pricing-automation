@@ -43,7 +43,7 @@ wahed-pricing-automation
 
 ```bash
 pip install -r requirements.txt
-2 Install Playwright browsers
+Install Playwright browsers
 playwright install
 Run Tests
 pytest --headed
@@ -89,6 +89,7 @@ Tests automatically:
 - Verify text inputs behavior
 
 The automation waits for dynamic elements and ensures stable execution.
+
 
 
 
